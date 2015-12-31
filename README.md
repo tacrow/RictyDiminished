@@ -1,6 +1,6 @@
 # プログラミング用フォント Ricty Diminished
 
-Ricty Diminished (リクティ・ディミニッシュト) は [Ricty](https://github.com/yascentur/Ricty) の姉妹フォントであり、[Inconsolata](http://levien.com/type/myfonts/inconsolata.html) と [Migu 1M](http://mix-mplus-ipa.sourceforge.jp/) ではなく、[Inconsolata](http://levien.com/type/myfonts/inconsolata.html) と [Circle M+ 1m](http://mix-mplus-ipa.sourceforge.jp/) を Ricty 生成スクリプトで合成したフォントです。
+Ricty Diminished (リクティ・ディミニッシュト) は [Ricty](https://github.com/yascentur/Ricty) の姉妹フォントであり、[Inconsolata](http://levien.com/type/myfonts/inconsolata.html) と [Migu 1M](http://mix-mplus-ipa.osdn.jp/) ではなく、[Inconsolata](http://levien.com/type/myfonts/inconsolata.html) と [Circle M+ 1m](http://mix-mplus-ipa.osdn.jp/) を Ricty 生成スクリプトで合成したフォントです。
 IPA ゴシックのグリフを含まないため、使用可能な漢字グリフの数が少ない代わり、[SIL Open Font License](http://scripts.sil.org/ofl) の下で配布が可能です。
 
 # 特徴
@@ -17,6 +17,12 @@ IPA ゴシックのグリフを含まないため、使用可能な漢字グリ�
 * Ricty Diminished は [SIL Open Font License (OFL) Version 1.1](http://scripts.sil.org/ofl) に従うものとします。
 
 # バージョン
+
+## Version 4.0.0 (31 Dec. 2015)
+
+* [Ricty 生成スクリプト Version 4.0.0](https://github.com/yascentur/Ricty/tree/4.0.0)
+* Inconsolata Version 1.016
+* Circle M+ 1m Version 1.060
 
 ## Version 3.2.4 (7 Dec. 2014)
 
@@ -41,7 +47,3 @@ IPA ゴシックのグリフを含まないため、使用可能な漢字グリ�
 * [Ricty 生成スクリプト Version 3.2.1](https://github.com/yascentur/Ricty/tree/3.2.1)
 * Inconsolata Version 001.010
 * Circle M+ 1m Version 1.052
-
-# 作者連絡先
-
-[遊佐泰紀 (Yasunori Yusa)](http://save.sys.t.u-tokyo.ac.jp/~yusa/index.html.ja)
