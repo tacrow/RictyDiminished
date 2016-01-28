@@ -18,6 +18,12 @@ IPA ゴシックのグリフを含まないため、使用可能な漢字グリ�
 
 # バージョン
 
+## Version 4.0.1 (28 Jan. 2016)
+
+* [Ricty 生成スクリプト Version 4.0.1](https://github.com/yascentur/Ricty/tree/4.0.1)
+* Inconsolata Version 1.016
+* Circle M+ 1m Version 1.060
+
 ## Version 4.0.0 (31 Dec. 2015)
 
 * [Ricty 生成スクリプト Version 4.0.0](https://github.com/yascentur/Ricty/tree/4.0.0)
